@@ -30,7 +30,7 @@ Options:
  
 ```bash
 git clone git@github.com:Ryoayasora85/ocr_py.git
-cd n_quietion/cording_question
+cd ocr_py/
 
 python -m venv venv
 source venv/bin/activate
