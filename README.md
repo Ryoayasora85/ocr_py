@@ -6,6 +6,7 @@ OCRスクリプト
 ## preparation
 
 ocr_py/pdfs/*.pdf ---------- OCR解析したいPDFファイルを配置してください。
+
 ocr_py/images/*..jpeg ------ 解析したい画像ファイルを配置してください。（ただし、PNG, JPGに限る）
 
 ## Requirement
